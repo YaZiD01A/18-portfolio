@@ -43,4 +43,4 @@ userInfo.virtual ("friendCount").get (()=> {
 
 const User = model ("User", userInfo)
 
-module.export = User
+module.exports = User
